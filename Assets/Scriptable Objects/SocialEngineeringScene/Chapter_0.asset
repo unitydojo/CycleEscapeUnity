@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b75c9ff8dda2c487a969972796c8eb11, type: 3}
+  m_Name: Chapter_0
+  m_EditorClassIdentifier: 
+  text: "\u039D\u03BF\u03BC\u03AF\u03B6\u03C9 \u03AE\u03C1\u03B8\u03B5 \u03B7 \u03CE\u03C1\u03B1
+    \u03BD\u03B1 \u03BC\u03AC\u03B8\u03BF\u03C5\u03BC\u03B5 \u03C0\u03B5\u03C1\u03B9\u03C3\u03C3\u03CC\u03C4\u03B5\u03C1\u03B1
+    \u03B3\u03B9\u03B1 \u03C4\u03B7\u03BD EvilCorp. \u038A\u03C3\u03C9\u03C2 \u03B1\u03BD
+    \u03B5\u03C0\u03B9\u03C3\u03BA\u03B5\u03C6\u03B8\u03BF\u03CD\u03BC\u03B5 \u03C4\u03BF
+    Facebook \u03BD\u03B1 \u03B2\u03C1\u03BF\u03CD\u03BC\u03B5 \u03BA\u03AC\u03C0\u03BF\u03B9\u03BF\u03BD
+    \u03B5\u03C1\u03B3\u03B1\u03B6\u03CC\u03BC\u03B5\u03BD\u03BF."
+  voiceOver: {fileID: 8300000, guid: e369673dd94a6ec44a9bcf1e873ad481, type: 3}
+  showsArrow: 1
+  character: {fileID: 11400000, guid: ac7d414686e7a614ebb2ce2a12df295d, type: 2}

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cdc89fd1e09d54245bb5ad32e046b982, type: 3}
+  m_Name: Odysseas
+  m_EditorClassIdentifier: 
+  characterName: "\u039F\u03B4\u03C5\u03C3\u03C3\u03AD\u03B1\u03C2"
+  characterSprite: {fileID: 21300000, guid: 457c4089effd80a47b16c920697384f7, type: 3}
+  hexColor: 274466
